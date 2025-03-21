@@ -1,0 +1,12 @@
+---
+title: "Some Stuff"
+date: today
+---
+
+Where is this here? How did I get here?
+
+
+## Other 
+
+To learn more check out [about](about.qmd)
+

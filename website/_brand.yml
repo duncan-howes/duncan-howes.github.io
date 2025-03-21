@@ -1,0 +1,19 @@
+color:
+  palette:
+    blue: "#447099"
+    orange: "#ee6331"
+    teal: "#419599"
+    green: "#729943"
+    burgundy: "#9a4665"
+    purple: burgundy
+    gray: "#404041"
+    black: "#151515"
+    white: "#FFFFFF"
+  foreground: black
+  background: white
+  primary: blue
+  secondary: gray
+  info: teal
+  success: green
+  warning: orange
+  danger: burgundy

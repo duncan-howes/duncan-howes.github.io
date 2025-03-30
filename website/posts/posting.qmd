@@ -1,6 +1,6 @@
 --- 
 title: "Post 1"
-description: "Well this aught to be interesting."
+description: "Well this aught to be ..."
 date: "3/21/2025"
 ---
-Is this where I write stuff?
+WHY ARE YOU HERE

@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Some Stuff",
+    "objectID": "posts/posting.html",
+    "href": "posts/posting.html",
+    "title": "Post 1",
     "section": "",
-    "text": "Where is this here? How did I get here?"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Nothing to see here."
-  },
-  {
-    "objectID": "index.html#other",
-    "href": "index.html#other",
-    "title": "Some Stuff",
-    "section": "Other",
-    "text": "Other\nTo learn more check out about"
+    "text": "Is this where I write stuff?"
   },
   {
     "objectID": "blog.html",
@@ -28,10 +14,24 @@
     "text": "Nothing of note to see here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost 1\n\n\n\n\n\nWell this aught to be interesting.\n\n\n\n\n\nMar 21, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/posting.html",
-    "href": "posts/posting.html",
-    "title": "Post 1",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Is this where I write stuff?"
+    "text": "Nothing to see here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Some Stuff",
+    "section": "",
+    "text": "Where is this here? How did I get here?"
+  },
+  {
+    "objectID": "index.html#other",
+    "href": "index.html#other",
+    "title": "Some Stuff",
+    "section": "Other",
+    "text": "Other\nTo learn more check out about"
   }
 ]
